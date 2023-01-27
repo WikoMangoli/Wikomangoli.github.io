@@ -1,0 +1,17 @@
+section {
+  margin-top: 200px;
+}
+
+body {
+  background: linear-gradient(#fcf9f0, #fdf7e4);
+  font-family: 'ARCADECLASSIC';
+}
+
+#about {
+  margin-top: 100px;
+}
+
+@font-face {
+  font-family: 'ARCADECLASSIC';
+  src: url(ARCADECLASSIC.TTF);
+}
